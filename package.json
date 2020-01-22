@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "node test | tap-spec"
+  },
+  "dependencies": {
+    "@architect/functions": "^3.4.14",
+    "@architect/sandbox": "^1.5.4",
+    "tap-spec": "^5.0.0",
+    "tape": "^4.13.0"
+  }
+}
